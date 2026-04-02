@@ -1,0 +1,2720 @@
+[
+    {
+        "sentence_id": 5,
+        "source": "Incentives in the financial system",
+        "target": "unsustainable lending growth",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Incentives in the financial system led to unsustainable lending growth in boom times followed by periods of deleveraging during the resulting downturn."
+        }
+    },
+    {
+        "sentence_id": 5,
+        "source": "unsustainable lending growth",
+        "target": "periods of deleveraging",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Incentives in the financial system led to unsustainable lending growth in boom times followed by periods of deleveraging during the resulting downturn."
+        }
+    },
+    {
+        "sentence_id": 6,
+        "source": "small share of SMEs seeking credit",
+        "target": "Lending to small and medium-sized enterprises (SMEs) has been weak",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Lending to small and medium-sized enterprises (SMEs) has been weak since the GFC, reflecting both the small share of SMEs seeking credit and historical barriers these firms face in accessing finance."
+        }
+    },
+    {
+        "sentence_id": 6,
+        "source": "historical barriers these firms face in accessing finance",
+        "target": "Lending to small and medium-sized enterprises (SMEs) has been weak",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Lending to small and medium-sized enterprises (SMEs) has been weak since the GFC, reflecting both the small share of SMEs seeking credit and historical barriers these firms face in accessing finance."
+        }
+    },
+    {
+        "sentence_id": 7,
+        "source": "changes made by the Prudential Regulation Authority (PRA) to Solvency II",
+        "target": "encourage investment in productive assets by UK insurers",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The FPC supports: The changes made by the Prudential Regulation Authority (PRA) to Solvency II to encourage investment in productive assets by UK insurers, particularly through its reforms to the Matching Adjustment (MA) regime and its introduction of a Matching Adjustment Investment Accelerator (MAIA)."
+        }
+    },
+    {
+        "sentence_id": 8,
+        "source": "easing monetary policy",
+        "target": "quoted mortgage rates have continued to decrease",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "In line with easing monetary policy and a competitive mortgage market, quoted mortgage rates have continued to decrease."
+        }
+    },
+    {
+        "sentence_id": 8,
+        "source": "competitive mortgage market",
+        "target": "quoted mortgage rates have continued to decrease",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "In line with easing monetary policy and a competitive mortgage market, quoted mortgage rates have continued to decrease."
+        }
+    },
+    {
+        "sentence_id": 10,
+        "source": "policy changes in the mortgage market",
+        "target": "higher supply of credit to households",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "While it remains too early to assess the full impact of these policy changes in the mortgage market, recent indicators suggest a higher supply of credit to households with net mortgage approvals reaching a nine-month high."
+        }
+    },
+    {
+        "sentence_id": 12,
+        "source": "a tightening of credit conditions or a deterioration in investor risk sentiment",
+        "target": "corporates in such funding markets more exposed",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "In markets serving higher-risk borrowers, such as leveraged loans and private credit, a larger proportion of outstanding debt has shorter maturity and therefore requires refinancing over the next few years, leaving corporates in such funding markets more exposed to a tightening of credit conditions or a deterioration in investor risk sentiment."
+        }
+    },
+    {
+        "sentence_id": 14,
+        "source": "the stress test",
+        "target": "the aggregate Common Equity Tier 1 (CET1) capital ratio starts at 14.5% and falls to a low point of 11.0%",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "In the stress test, the aggregate Common Equity Tier 1 (CET1) capital ratio starts at 14.5% and falls to a low point of 11.0% in the first year."
+        }
+    },
+    {
+        "sentence_id": 17,
+        "source": "materially lower capital requirements",
+        "target": "significant reductions in long-run expected GDP",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "That analysis also suggested that materially lower capital requirements could lead to significant reductions in long-run expected GDP."
+        }
+    },
+    {
+        "sentence_id": 18,
+        "source": "enhance the usability of regulatory buffers",
+        "target": "reduce banks\u2019 incentives to have capital in excess of regulatory requirements",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "As a result: With the PRA and international authorities, the FPC will work to enhance the usability of regulatory buffers and so reduce banks\u2019 incentives to have capital in excess of regulatory requirements."
+        }
+    },
+    {
+        "sentence_id": 20,
+        "source": "funding conditions tightened to the extent that refinancing became unavailable or prohibitively expensive",
+        "target": "Funds could need to deleverage simultaneously",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Funds could need to deleverage simultaneously in response to a shock if funding conditions tightened to the extent that refinancing became unavailable or prohibitively expensive."
+        }
+    },
+    {
+        "sentence_id": 22,
+        "source": "changes to an economy\u2019s supply capacity",
+        "target": "GDP growth",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In the long term, GDP growth is driven by changes to an economy\u2019s supply capacity, which is determined by the amount of labour and capital available, and the efficiency with which these factors can be combined \u2013 known as total factor productivity."
+        }
+    },
+    {
+        "sentence_id": 24,
+        "source": "diffusion of information and communications technologies",
+        "target": "total factor productivity growth",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In the 1990s, total factor productivity growth in most western economies was high, driven by the diffusion of information and communications technologies such as the internet, which have the characteristics of a General-Purpose Technology (GPT)."
+        }
+    },
+    {
+        "sentence_id": 25,
+        "source": "population ageing",
+        "target": "slowdown",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "And Adler et al (2017) find that population ageing, slowing human capital accumulation, and lower global trade all contributed to this slowdown."
+        }
+    },
+    {
+        "sentence_id": 25,
+        "source": "slowing human capital accumulation",
+        "target": "slowdown",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "And Adler et al (2017) find that population ageing, slowing human capital accumulation, and lower global trade all contributed to this slowdown."
+        }
+    },
+    {
+        "sentence_id": 25,
+        "source": "lower global trade",
+        "target": "slowdown",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "And Adler et al (2017) find that population ageing, slowing human capital accumulation, and lower global trade all contributed to this slowdown."
+        }
+    },
+    {
+        "sentence_id": 26,
+        "source": "UK\u2019s decision to leave the European Union",
+        "target": "compounded these effects",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Additional shocks, including the UK\u2019s decision to leave the European Union, the Covid pandemic, and the significant rise in energy prices in 2022 following Russia\u2019s invasion of Ukraine, have compounded these effects although recent data suggest that the productivity effects of the pandemic have dissipated and there is no longer a significant drag due to the energy price shock."
+        }
+    },
+    {
+        "sentence_id": 26,
+        "source": "Covid pandemic",
+        "target": "compounded these effects",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Additional shocks, including the UK\u2019s decision to leave the European Union, the Covid pandemic, and the significant rise in energy prices in 2022 following Russia\u2019s invasion of Ukraine, have compounded these effects although recent data suggest that the productivity effects of the pandemic have dissipated and there is no longer a significant drag due to the energy price shock."
+        }
+    },
+    {
+        "sentence_id": 26,
+        "source": "significant rise in energy prices",
+        "target": "compounded these effects",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Additional shocks, including the UK\u2019s decision to leave the European Union, the Covid pandemic, and the significant rise in energy prices in 2022 following Russia\u2019s invasion of Ukraine, have compounded these effects although recent data suggest that the productivity effects of the pandemic have dissipated and there is no longer a significant drag due to the energy price shock."
+        }
+    },
+    {
+        "sentence_id": 28,
+        "source": "demand for finance from businesses looking to invest in capital",
+        "target": "driven",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This could be driven by both demand for finance from businesses looking to invest in capital, as well as the supply of finance to those businesses."
+        }
+    },
+    {
+        "sentence_id": 28,
+        "source": "supply of finance to those businesses",
+        "target": "driven",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This could be driven by both demand for finance from businesses looking to invest in capital, as well as the supply of finance to those businesses."
+        }
+    },
+    {
+        "sentence_id": 29,
+        "source": "growth of market-based finance",
+        "target": "diversified the supply of productive finance",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The growth of market-based finance and increased competition within the banking sector have diversified the supply of productive finance to the real economy."
+        }
+    },
+    {
+        "sentence_id": 29,
+        "source": "increased competition within the banking sector",
+        "target": "diversified the supply of productive finance",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The growth of market-based finance and increased competition within the banking sector have diversified the supply of productive finance to the real economy."
+        }
+    },
+    {
+        "sentence_id": 30,
+        "source": "financial sector",
+        "target": "driving UK productivity growth",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Because the financial sector plays a role in driving UK productivity growth, actions to support financial stability in turn support economic growth."
+        }
+    },
+    {
+        "sentence_id": 30,
+        "source": "actions to support financial stability",
+        "target": "support economic growth",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Because the financial sector plays a role in driving UK productivity growth, actions to support financial stability in turn support economic growth."
+        }
+    },
+    {
+        "sentence_id": 31,
+        "source": "Improvements to financial system resilience",
+        "target": "continue to support UK households and businesses",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Improvements to financial system resilience since the GFC have allowed it to continue to support UK households and businesses through periods of financial stress."
+        }
+    },
+    {
+        "sentence_id": 34,
+        "source": "higher capital",
+        "target": "pushing up on borrowing costs",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This weighs the macroeconomic costs of capital (which stem from the impact of higher capital pushing up on borrowing costs) against the benefits of capital, which come about because higher bank capital reduces the likelihood and costs of financial crises."
+        }
+    },
+    {
+        "sentence_id": 34,
+        "source": "higher bank capital",
+        "target": "reduces the likelihood and costs of financial crises",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This weighs the macroeconomic costs of capital (which stem from the impact of higher capital pushing up on borrowing costs) against the benefits of capital, which come about because higher bank capital reduces the likelihood and costs of financial crises."
+        }
+    },
+    {
+        "sentence_id": 35,
+        "source": "investments",
+        "target": "improve the infrastructure",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "To meet the challenges of the future, the UK economy will require a flow of long-term capital to fund investments which improve the infrastructure that supports the economy, fund the development and deployment of new technologies that will drive productivity growth and support the transition to Net Zero."
+        }
+    },
+    {
+        "sentence_id": 35,
+        "source": "new technologies",
+        "target": "drive productivity growth",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "To meet the challenges of the future, the UK economy will require a flow of long-term capital to fund investments which improve the infrastructure that supports the economy, fund the development and deployment of new technologies that will drive productivity growth and support the transition to Net Zero."
+        }
+    },
+    {
+        "sentence_id": 37,
+        "source": "Digital Securities Sandbox (DSS)",
+        "target": "encourage innovation in financial market infrastructure",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The Bank and FCA have also set up the Digital Securities Sandbox (DSS), which provides a regulated environment to encourage innovation in financial market infrastructure."
+        }
+    },
+    {
+        "sentence_id": 39,
+        "source": "scaling up DC pension funds",
+        "target": "enhance their sophistication",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Potential solutions include scaling up DC pension funds, enabling them to enhance their sophistication and reduce unit costs, thereby improving outcomes for members."
+        }
+    },
+    {
+        "sentence_id": 39,
+        "source": "scaling up DC pension funds",
+        "target": "reduce unit costs",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Potential solutions include scaling up DC pension funds, enabling them to enhance their sophistication and reduce unit costs, thereby improving outcomes for members."
+        }
+    },
+    {
+        "sentence_id": 39,
+        "source": "scaling up DC pension funds",
+        "target": "improving outcomes for members",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Potential solutions include scaling up DC pension funds, enabling them to enhance their sophistication and reduce unit costs, thereby improving outcomes for members."
+        }
+    },
+    {
+        "sentence_id": 40,
+        "source": "products without daily liquidity",
+        "target": "support longer-term investments",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "DC pension products could also be expanded to offer a wider range of products without daily liquidity which can support longer-term investments."
+        }
+    },
+    {
+        "sentence_id": 41,
+        "source": "changes made by the PRA to Solvency II",
+        "target": "encourage investment in productive assets",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The FPC supports the changes made by the PRA to Solvency II to encourage investment in productive assets by UK insurers, particularly through its reforms to the Matching Adjustment (MA) regime and its work to deliver a Matching Adjustment Investment Accelerator (MAIA)."
+        }
+    },
+    {
+        "sentence_id": 46,
+        "source": "shortage of patient capital",
+        "target": "HGFs find it progressively more difficult to raise funds",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The FPC has identified the following impediments to the supply of debt or equity finance to HGFs: 1. HGFs find it progressively more difficult to raise funds \u2013 especially from domestic sources \u2013 as funding rounds get larger due to a shortage of patient capital (Chart C)."
+        }
+    },
+    {
+        "sentence_id": 48,
+        "source": "difficulty of valuing intangible assets",
+        "target": "Banks face significant challenges in developing lending collateralised by IP",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Banks face significant challenges in developing lending collateralised by IP, primarily due to the difficulty of valuing intangible assets, the lack of standardised frameworks for assessing IP risk, and limited secondary markets for recovery in case of default."
+        }
+    },
+    {
+        "sentence_id": 48,
+        "source": "lack of standardised frameworks for assessing IP risk",
+        "target": "Banks face significant challenges in developing lending collateralised by IP",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Banks face significant challenges in developing lending collateralised by IP, primarily due to the difficulty of valuing intangible assets, the lack of standardised frameworks for assessing IP risk, and limited secondary markets for recovery in case of default."
+        }
+    },
+    {
+        "sentence_id": 48,
+        "source": "limited secondary markets for recovery in case of default",
+        "target": "Banks face significant challenges in developing lending collateralised by IP",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Banks face significant challenges in developing lending collateralised by IP, primarily due to the difficulty of valuing intangible assets, the lack of standardised frameworks for assessing IP risk, and limited secondary markets for recovery in case of default."
+        }
+    },
+    {
+        "sentence_id": 49,
+        "source": "solutions to mobilising domestic long-term capital",
+        "target": "benefit HGFs",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The solutions to mobilising domestic long-term capital set out above could benefit HGFs, as could solutions to reduce funding complexity \u2013 such as a \u2018one-stop-shop\u2019 for funding information for HGFs."
+        }
+    },
+    {
+        "sentence_id": 49,
+        "source": "solutions to reduce funding complexity",
+        "target": "benefit HGFs",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The solutions to mobilising domestic long-term capital set out above could benefit HGFs, as could solutions to reduce funding complexity \u2013 such as a \u2018one-stop-shop\u2019 for funding information for HGFs."
+        }
+    },
+    {
+        "sentence_id": 51,
+        "source": "Elevated geopolitical tensions and continued advances in technology",
+        "target": "increased the potential for operational incidents to disrupt the provision of vital services",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Elevated geopolitical tensions and continued advances in technology have increased the potential for operational incidents to disrupt the provision of vital services (Section 7)."
+        }
+    },
+    {
+        "sentence_id": 54,
+        "source": "deregulation",
+        "target": "expansion beyond traditional business lending",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "UK bank lending in the 1980s and early 1990s grew rapidly as deregulation led to an expansion beyond traditional business lending, which increased the banking sector\u2019s size but created vulnerabilities."
+        }
+    },
+    {
+        "sentence_id": 54,
+        "source": "expansion beyond traditional business lending",
+        "target": "increased the banking sector\u2019s size",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "UK bank lending in the 1980s and early 1990s grew rapidly as deregulation led to an expansion beyond traditional business lending, which increased the banking sector\u2019s size but created vulnerabilities."
+        }
+    },
+    {
+        "sentence_id": 54,
+        "source": "expansion beyond traditional business lending",
+        "target": "created vulnerabilities",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "UK bank lending in the 1980s and early 1990s grew rapidly as deregulation led to an expansion beyond traditional business lending, which increased the banking sector\u2019s size but created vulnerabilities."
+        }
+    },
+    {
+        "sentence_id": 55,
+        "source": "deregulation and increased competition",
+        "target": "structural shift in the UK banking sector",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The 1980s and early 1990s marked a structural shift in the UK banking sector driven by deregulation and increased competition."
+        }
+    },
+    {
+        "sentence_id": 56,
+        "source": "removal of credit controls, exchange restrictions, and reforms such as the abolition of the \u2018corset\u2019 in 1980",
+        "target": "enabled banks to expand beyond business lending into mortgage finance and investment banking",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The removal of credit controls, exchange restrictions, and reforms such as the abolition of the \u2018corset\u2019 in 1980, enabled banks to expand beyond business lending into mortgage finance and investment banking.[4] Banks\u2019 share of mortgage lending increased as a result."
+        }
+    },
+    {
+        "sentence_id": 56,
+        "source": "enabled banks to expand beyond business lending into mortgage finance and investment banking",
+        "target": "Banks\u2019 share of mortgage lending increased",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The removal of credit controls, exchange restrictions, and reforms such as the abolition of the \u2018corset\u2019 in 1980, enabled banks to expand beyond business lending into mortgage finance and investment banking.[4] Banks\u2019 share of mortgage lending increased as a result."
+        }
+    },
+    {
+        "sentence_id": 57,
+        "source": "Rapid credit growth and loosening of underwriting standards",
+        "target": "increased vulnerabilities",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Rapid credit growth and loosening of underwriting standards during this period increased vulnerabilities that resulted in the early 1990s small banks\u2019 crisis."
+        }
+    },
+    {
+        "sentence_id": 57,
+        "source": "increased vulnerabilities",
+        "target": "resulted in the early 1990s small banks\u2019 crisis",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Rapid credit growth and loosening of underwriting standards during this period increased vulnerabilities that resulted in the early 1990s small banks\u2019 crisis."
+        }
+    },
+    {
+        "sentence_id": 60,
+        "source": "The early 1990s recession",
+        "target": "many repossessions, business failures \u2013 especially among SMEs \u2013 and high impairment rates on banks\u2019 lending",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The early 1990s recession led to many repossessions, business failures \u2013 especially among SMEs \u2013 and high impairment rates on banks\u2019 lending."
+        }
+    },
+    {
+        "sentence_id": 61,
+        "source": "the aftermath of the recession",
+        "target": "reduction in the reliance of SMEs on bank financing",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The aftermath of the recession saw a reduction in the reliance of SMEs on bank financing, with the proportion of small businesses seeking external finance falling from 65% between 1987\u201390, to around 40% between 1995\u201397."
+        }
+    },
+    {
+        "sentence_id": 62,
+        "source": "rates rose",
+        "target": "house prices fell",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Household debt was stable throughout much of the 1990s between 60%\u201365% of GDP, reflecting the subdued housing market that followed the 1990s recession as rates rose and house prices fell (Chart A)."
+        }
+    },
+    {
+        "sentence_id": 63,
+        "source": "Household and corporate borrowing accelerated",
+        "target": "over-leveraged bank and private sector balance sheets",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Household and corporate borrowing accelerated in the lead-up to the 2008\u201309 global financial crisis (GFC) resulting in over-leveraged bank and private sector balance sheets."
+        }
+    },
+    {
+        "sentence_id": 64,
+        "source": "increased competition among mortgage lenders",
+        "target": "rapid house price growth",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Household debt-to-GDP grew by around 40 percentage points from the late 1990\u2019s to 2008 and peaked at over 100% of GDP, mirroring rapid house price growth partly driven by increased competition among mortgage lenders (Chart A)."
+        }
+    },
+    {
+        "sentence_id": 67,
+        "source": "Macroprudential policies",
+        "target": "strengthened the resilience",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Macroprudential policies, which strengthened the resilience and reduced excessive risk-taking across the financial system, were introduced after the GFC to reduce this procyclical behaviour."
+        }
+    },
+    {
+        "sentence_id": 67,
+        "source": "Macroprudential policies",
+        "target": "reduced excessive risk-taking",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Macroprudential policies, which strengthened the resilience and reduced excessive risk-taking across the financial system, were introduced after the GFC to reduce this procyclical behaviour."
+        }
+    },
+    {
+        "sentence_id": 68,
+        "source": "banks tightened lending standards",
+        "target": "Household credit growth slowed",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Household credit growth slowed after the GFC as banks tightened lending standards and focused on repairing their balance sheets."
+        }
+    },
+    {
+        "sentence_id": 68,
+        "source": "focused on repairing their balance sheets",
+        "target": "Household credit growth slowed",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Household credit growth slowed after the GFC as banks tightened lending standards and focused on repairing their balance sheets."
+        }
+    },
+    {
+        "sentence_id": 69,
+        "source": "The flat total household debt stock",
+        "target": "declined relative to GDP",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The flat total household debt stock meant it declined relative to GDP, falling to below 90% in 2014."
+        }
+    },
+    {
+        "sentence_id": 73,
+        "source": "implementation of post-crisis regulation and policies to increase banking sector competition",
+        "target": "bank lending and the stock of household and corporate credit rose",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Following the implementation of post-crisis regulation and policies to increase banking sector competition, bank lending and the stock of household and corporate credit rose between 2014 and 2020."
+        }
+    },
+    {
+        "sentence_id": 74,
+        "source": "higher capital and liquidity requirements",
+        "target": "strengthened and increased confidence in the banking system",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This followed the implementation of post-crisis regulatory reforms, including higher capital and liquidity requirements that strengthened and increased confidence in the banking system."
+        }
+    },
+    {
+        "sentence_id": 75,
+        "source": "Government and regulatory policies designed to increase banking sector competition",
+        "target": "increased the number of providers of finance available to household and corporate borrowers",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Government and regulatory policies designed to increase banking sector competition also increased the number of providers of finance available to household and corporate borrowers."
+        }
+    },
+    {
+        "sentence_id": 79,
+        "source": "high inflation",
+        "target": "marked reduction in household and corporate debt-to- GDP ratios",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The economy was hit by a series of shocks starting in 2020 that ultimately resulted in high inflation driving a marked reduction in household and corporate debt-to- GDP ratios, while post-GFC regulation has enabled the banking system to weather shocks while supporting the economy."
+        }
+    },
+    {
+        "sentence_id": 80,
+        "source": "lockdowns and reduced consumer demand",
+        "target": "severe cash flow issues",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The stock of corporate debt rose by 6% over 2020 H1 as many businesses, especially SMEs, faced severe cash flow issues due to lockdowns and reduced consumer demand."
+        }
+    },
+    {
+        "sentence_id": 81,
+        "source": "This",
+        "target": "surge in demand for emergency finance",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This led to a surge in demand for emergency finance, including government-backed loans."
+        }
+    },
+    {
+        "sentence_id": 82,
+        "source": "contraction in nominal GDP",
+        "target": "large increase in household and corporate debt-to-GDP ratios",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This, combined with a roughly 16% contraction in nominal GDP during lockdown, resulted in large increase in household and corporate debt-to-GDP ratios."
+        }
+    },
+    {
+        "sentence_id": 84,
+        "source": "energy and supply shocks",
+        "target": "increased inflation and nominal GDP",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Following this, a series of energy and supply shocks that increased inflation and nominal GDP resulted in a large reduction in debt-to-GDP ratios."
+        }
+    },
+    {
+        "sentence_id": 84,
+        "source": "energy and supply shocks",
+        "target": "large reduction in debt-to-GDP ratios",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Following this, a series of energy and supply shocks that increased inflation and nominal GDP resulted in a large reduction in debt-to-GDP ratios."
+        }
+    },
+    {
+        "sentence_id": 85,
+        "source": "these shocks",
+        "target": "interest rates increases",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The overlapping effects of these shocks, which resulted in interest rates increases, have created a prolonged period of uncertainty, making businesses more cautious about borrowing for expansion."
+        }
+    },
+    {
+        "sentence_id": 85,
+        "source": "prolonged period of uncertainty",
+        "target": "making businesses more cautious about borrowing for expansion",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The overlapping effects of these shocks, which resulted in interest rates increases, have created a prolonged period of uncertainty, making businesses more cautious about borrowing for expansion."
+        }
+    },
+    {
+        "sentence_id": 87,
+        "source": "reduction in indebtedness of households and corporates",
+        "target": "increase in resilience to future shocks",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The reduction in indebtedness of households and corporates relative to their income has led to an increase in resilience to future shocks (Section 3)."
+        }
+    },
+    {
+        "sentence_id": 88,
+        "source": "Post-GFC regulation",
+        "target": "increased bank resilience",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Post-GFC regulation that increased bank resilience and the FPC\u2019s use of the countercyclical capital buffer in stress, has enabled the banking sector to continue to support households and businesses through recent shocks."
+        }
+    },
+    {
+        "sentence_id": 88,
+        "source": "increased bank resilience and the FPC\u2019s use of the countercyclical capital buffer",
+        "target": "enabled the banking sector to continue to support households and businesses",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Post-GFC regulation that increased bank resilience and the FPC\u2019s use of the countercyclical capital buffer in stress, has enabled the banking sector to continue to support households and businesses through recent shocks."
+        }
+    },
+    {
+        "sentence_id": 91,
+        "source": "international banks and by the emergence of challenger banks",
+        "target": "increased diversification of UK corporate finance",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The increased diversification of UK corporate finance has been further increased by international banks and by the emergence of challenger banks."
+        }
+    },
+    {
+        "sentence_id": 94,
+        "source": "supply and demand effects, and historical access to credit challenges",
+        "target": "Borrowing by SMEs has fallen",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Chart B: UK corporate debt provision diversified after the GFC Share of the stock of lending to UK non-financial corporates from banks and non-banks Source: Refer to the sources for Chart A. Borrowing by SMEs has fallen as a share of GDP since the GFC reflecting both supply and demand effects, and historical access to credit challenges."
+        }
+    },
+    {
+        "sentence_id": 97,
+        "source": "higher impairments (through higher probability of default) and operational costs of SME lending",
+        "target": "The high cost",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The high cost, relative to lending to larger corporates, can be mostly attributed to higher impairments (through higher probability of default) and operational costs of SME lending (eg small loan size, and high screening costs due to information asymmetries)."
+        }
+    },
+    {
+        "sentence_id": 99,
+        "source": "Developments in the global risk environment and financial markets",
+        "target": "Risks to financial stability have increased",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "2: Developments in global vulnerabilities and financial markets 2.1: Developments in the global risk environment and financial markets Risks to financial stability have increased during 2025."
+        }
+    },
+    {
+        "sentence_id": 104,
+        "source": "The size of these companies",
+        "target": "increased concentration in the S&P 500 index",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The size of these companies has increased concentration in the S&P 500 index to historical highs, with the \u2018Magnificent 7\u2019 accounting for over a third of the index.[5] Chart 2.2: Valuations for a range of risky assets remain at historically stretched levels Current levels of selected risk premia as a percentile of their historical distribution, compared to levels at the July 2025 FSR and October 2025 FPC meeting (a) Sources: Bloomberg Finance L.P., Datastream from LSEG, ICE BofAML, PitchBook Data, Inc. and Bank calculations."
+        }
+    },
+    {
+        "sentence_id": 106,
+        "source": "some high-profile US corporate defaults",
+        "target": "spread between yields on both investment grade (IG) and riskier corporate borrowing ... and yields on safer debt ... have widened",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The spread between yields on both investment grade (IG) and riskier corporate borrowing (high- yield bonds and leveraged loans) and yields on safer debt (eg government bonds) have widened marginally since the FPC\u2019s October 2025 meeting across jurisdictions, partly as a response to some high-profile US corporate defaults."
+        }
+    },
+    {
+        "sentence_id": 107,
+        "source": "increases in interest rates",
+        "target": "refinance existing fixed-term debt at higher rates",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Corporates, especially highly leveraged corporates, continue to face challenges as they refinance existing fixed-term debt at higher rates following increases in interest rates over recent years (Section 3)."
+        }
+    },
+    {
+        "sentence_id": 108,
+        "source": "tight credit spreads",
+        "target": "encouraged higher levels of corporate issuance",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "However, tight credit spreads have offset this in part and encouraged higher levels of corporate issuance."
+        }
+    },
+    {
+        "sentence_id": 109,
+        "source": "imposition of tariffs",
+        "target": "lower profits for firms",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The imposition of tariffs could potentially lead to lower profits for firms through higher costs on imported goods and lower earnings \u2013 through either lower global demand, or in response to higher prices if firms pass the cost of tariffs onto consumers."
+        }
+    },
+    {
+        "sentence_id": 109,
+        "source": "higher costs on imported goods",
+        "target": "lower profits for firms",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The imposition of tariffs could potentially lead to lower profits for firms through higher costs on imported goods and lower earnings \u2013 through either lower global demand, or in response to higher prices if firms pass the cost of tariffs onto consumers."
+        }
+    },
+    {
+        "sentence_id": 109,
+        "source": "lower global demand",
+        "target": "lower earnings",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The imposition of tariffs could potentially lead to lower profits for firms through higher costs on imported goods and lower earnings \u2013 through either lower global demand, or in response to higher prices if firms pass the cost of tariffs onto consumers."
+        }
+    },
+    {
+        "sentence_id": 109,
+        "source": "higher prices",
+        "target": "lower earnings",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The imposition of tariffs could potentially lead to lower profits for firms through higher costs on imported goods and lower earnings \u2013 through either lower global demand, or in response to higher prices if firms pass the cost of tariffs onto consumers."
+        }
+    },
+    {
+        "sentence_id": 110,
+        "source": "two recent high-profile corporate defaults in the US",
+        "target": "credit spreads widened slightly",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In response to two recent high-profile corporate defaults in the US, credit spreads widened slightly but have not materially repriced, suggesting market participants primarily see them as driven by company specific-challenges."
+        }
+    },
+    {
+        "sentence_id": 111,
+        "source": "opacity and complex corporate structures",
+        "target": "significant alleged fraud",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Notably, the opacity and complex corporate structures in these two entities may have been a contributing factor that allowed significant alleged fraud to be undetected for a period."
+        }
+    },
+    {
+        "sentence_id": 114,
+        "source": "resumption of student loan repayments and reporting of delinquent loans to credit bureaus",
+        "target": "Arrears on student loan debt",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "(a) Arrears on student loan debt increased significantly in the first half of 2025, reflecting the resumption of student loan repayments and reporting of delinquent loans to credit bureaus."
+        }
+    },
+    {
+        "sentence_id": 116,
+        "source": "imposition of tariffs",
+        "target": "cost pressures",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "US businesses are facing cost pressures due to the imposition of tariffs, especially in exposed sectors."
+        }
+    },
+    {
+        "sentence_id": 119,
+        "source": "wider reassessment of credit quality by global markets",
+        "target": "higher borrowing costs for UK households and businesses",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "If this triggered a wider reassessment of credit quality by global markets, this could lead to higher borrowing costs for UK households and businesses, and lower liquidity in UK corporate bond and leveraged loan markets."
+        }
+    },
+    {
+        "sentence_id": 119,
+        "source": "wider reassessment of credit quality by global markets",
+        "target": "lower liquidity in UK corporate bond and leveraged loan markets",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "If this triggered a wider reassessment of credit quality by global markets, this could lead to higher borrowing costs for UK households and businesses, and lower liquidity in UK corporate bond and leveraged loan markets."
+        }
+    },
+    {
+        "sentence_id": 120,
+        "source": "defaults of First Brands and Tricolor",
+        "target": "wider reassessment of credit risk in the US",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "If the defaults of First Brands and Tricolor prompted a wider reassessment of credit risk in the US, then this could spillover to the UK and harm the availability and pricing of credit for the UK real economy, with higher spreads and a tightening of credit conditions for lower quality credit in particular."
+        }
+    },
+    {
+        "sentence_id": 120,
+        "source": "wider reassessment of credit risk in the US",
+        "target": "harm the availability and pricing of credit for the UK real economy",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "If the defaults of First Brands and Tricolor prompted a wider reassessment of credit risk in the US, then this could spillover to the UK and harm the availability and pricing of credit for the UK real economy, with higher spreads and a tightening of credit conditions for lower quality credit in particular."
+        }
+    },
+    {
+        "sentence_id": 120,
+        "source": "wider reassessment of credit risk in the US",
+        "target": "higher spreads and a tightening of credit conditions",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "If the defaults of First Brands and Tricolor prompted a wider reassessment of credit risk in the US, then this could spillover to the UK and harm the availability and pricing of credit for the UK real economy, with higher spreads and a tightening of credit conditions for lower quality credit in particular."
+        }
+    },
+    {
+        "sentence_id": 122,
+        "source": "Support for local government finances",
+        "target": "reduces financing costs",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Support for local government finances was announced last November, which brings some local government debts onto balance sheets and reduces financing costs, but local government fiscal pressures remain elevated amidst weak revenue growth."
+        }
+    },
+    {
+        "sentence_id": 124,
+        "source": "interest rate increases",
+        "target": "Yields on developed market long-term government bonds have risen",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Yields on developed market long-term government bonds have risen over recent years reflecting interest rate increases and higher term-premia, as concerns about the sustainability of fiscal deficits globally remain in focus."
+        }
+    },
+    {
+        "sentence_id": 124,
+        "source": "higher term-premia",
+        "target": "Yields on developed market long-term government bonds have risen",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Yields on developed market long-term government bonds have risen over recent years reflecting interest rate increases and higher term-premia, as concerns about the sustainability of fiscal deficits globally remain in focus."
+        }
+    },
+    {
+        "sentence_id": 126,
+        "source": "reduced term premia",
+        "target": "This fall",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This fall reflects both reduced term premia and expectations for interest rates."
+        }
+    },
+    {
+        "sentence_id": 126,
+        "source": "expectations for interest rates",
+        "target": "This fall",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This fall reflects both reduced term premia and expectations for interest rates."
+        }
+    },
+    {
+        "sentence_id": 127,
+        "source": "interest rate increases",
+        "target": "Long-term (10-year) government bond yields have risen",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Chart 2.7: Long-term (10-year) government bond yields have risen over recent years reflecting interest rate increases and higher term-premia."
+        }
+    },
+    {
+        "sentence_id": 127,
+        "source": "higher term-premia",
+        "target": "Long-term (10-year) government bond yields have risen",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Chart 2.7: Long-term (10-year) government bond yields have risen over recent years reflecting interest rate increases and higher term-premia."
+        }
+    },
+    {
+        "sentence_id": 128,
+        "source": "higher interest rates",
+        "target": "tighter global financial conditions",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "These include: increased market volatility and possible interactions with vulnerabilities in MBF; the reduced ability of governments to respond to future shocks; higher interest rates leading to tighter global financial conditions; and the potential for capital outflows from non-resident investors."
+        }
+    },
+    {
+        "sentence_id": 129,
+        "source": "higher interest rates",
+        "target": "improve their funding ratios",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Historically, pension funds have been large buyers of longer-term government bonds, but have played less of a role in recent years as higher interest rates improve their funding ratios, and an ageing population may encourage funds to shift toward shorter-term assets to ensure liquidity for paying current benefits."
+        }
+    },
+    {
+        "sentence_id": 130,
+        "source": "warehousing risk and intermediating between different types of market participants",
+        "target": "improving market liquidity and price discovery",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In normal times, hedge funds serve a useful function by warehousing risk and intermediating between different types of market participants, thereby improving market liquidity and price discovery, but their use of leverage introduces risk."
+        }
+    },
+    {
+        "sentence_id": 130,
+        "source": "use of leverage",
+        "target": "introduces risk",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In normal times, hedge funds serve a useful function by warehousing risk and intermediating between different types of market participants, thereby improving market liquidity and price discovery, but their use of leverage introduces risk."
+        }
+    },
+    {
+        "sentence_id": 131,
+        "source": "progress in AI systems and the development of physical infrastructure",
+        "target": "companies across multiple sectors ... being at least partly dependent on AI progress for their current and expected future earnings",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The progress in AI systems and the development of physical infrastructure to train, use and power them has resulted in a wide range of companies across multiple sectors \u2013 from technology to utilities and capital goods (referred to as \u2018AI companies\u2019 in this box) \u2013 being at least partly dependent on AI progress for their current and expected future earnings."
+        }
+    },
+    {
+        "sentence_id": 132,
+        "source": "high expected future earnings growth",
+        "target": "share prices of many AI companies ... appearing historically expensive",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The share prices of many AI companies are partly underpinned by high expected future earnings growth over several years, contributing to those companies \u2013 and subsequently the equity indices which they comprise a significant part of \u2013 appearing historically expensive in valuation metrics which consider past, current or only near-term future earnings (Chart A)."
+        }
+    },
+    {
+        "sentence_id": 136,
+        "source": "issued a large amount of debt this year to finance AI infrastructure spending",
+        "target": "five-year credit default swap spreads of Oracle ... has widened",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "For example, the five-year credit default swap spreads of Oracle \u2013 an AI company which has lower free cash flow margins than some other larger hyperscalers and has issued a large amount of debt this year to finance AI infrastructure spending \u2013 has widened from less than 40 basis points to around 120 basis points since end-July (by contrast, the credit default swap spreads of US IG corporates more broadly \u2013 as proxied by the CDX North American IG five-year index \u2013 are broadly unchanged over the same period)."
+        }
+    },
+    {
+        "sentence_id": 138,
+        "source": "tracing the final location of credit risk is challenging",
+        "target": "complicating assessments of who ultimately bears losses if conditions deteriorate",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "As a result, tracing the final location of credit risk is challenging, complicating assessments of who ultimately bears losses if conditions deteriorate."
+        }
+    },
+    {
+        "sentence_id": 142,
+        "source": "leveraged equity positions",
+        "target": "risks to systemic financial institutions",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "However, the collapse of Archegos Capital Management in March 2021, after failing to meet margin calls on their equity total return swap positions, demonstrated how leveraged equity positions can result in risks to systemic financial institutions through prime brokerage exposures when prices fall."
+        }
+    },
+    {
+        "sentence_id": 144,
+        "source": "increases in US equity prices",
+        "target": "increase in US real consumption",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "On top of the contribution of AI investment to US GDP growth, Bank staff estimate that increases in US equity prices have contributed to around 10% of the increase in US real consumption since the start of 2024, with AI-related equities the main driver during this period."
+        }
+    },
+    {
+        "sentence_id": 146,
+        "source": "fall in equity prices",
+        "target": "direct wealth effects on consumer spending",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The direct wealth effects on consumer spending in the UK of an AI-driven fall in equity prices are likely to be comparatively lower than the US due to the significantly smaller role of direct equity holdings as a share of household wealth."
+        }
+    },
+    {
+        "sentence_id": 147,
+        "source": "weaker US demand",
+        "target": "lower US incomes and earnings",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Additionally, weaker US demand could lead to lower US incomes and earnings, putting pressure on the debt servicing burdens of US households and businesses and consequently increasing the defaults and losses on the US exposures of UK lenders."
+        }
+    },
+    {
+        "sentence_id": 147,
+        "source": "lower US incomes and earnings",
+        "target": "pressure on the debt servicing burdens",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Additionally, weaker US demand could lead to lower US incomes and earnings, putting pressure on the debt servicing burdens of US households and businesses and consequently increasing the defaults and losses on the US exposures of UK lenders."
+        }
+    },
+    {
+        "sentence_id": 147,
+        "source": "pressure on the debt servicing burdens",
+        "target": "increasing the defaults and losses",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Additionally, weaker US demand could lead to lower US incomes and earnings, putting pressure on the debt servicing burdens of US households and businesses and consequently increasing the defaults and losses on the US exposures of UK lenders."
+        }
+    },
+    {
+        "sentence_id": 148,
+        "source": "debt issuance increased significantly",
+        "target": "direct impact would become larger",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "While at present the degree of impact on credit markets of a re-evaluation of future AI company earnings would likely be modest, if debt issuance increased significantly, the direct impact would become larger."
+        }
+    },
+    {
+        "sentence_id": 149,
+        "source": "unprecedented increases in prices",
+        "target": "large margin calls",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Very large shocks to commodity prices can have spillover consequences for systemic institutions, as seen in 2022 when large margin calls in LME Nickel futures markets following unprecedented increases in prices forced a suspension of trading by the central counterparty (CCP) LME Clear."
+        }
+    },
+    {
+        "sentence_id": 149,
+        "source": "large margin calls",
+        "target": "forced a suspension of trading",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Very large shocks to commodity prices can have spillover consequences for systemic institutions, as seen in 2022 when large margin calls in LME Nickel futures markets following unprecedented increases in prices forced a suspension of trading by the central counterparty (CCP) LME Clear."
+        }
+    },
+    {
+        "sentence_id": 150,
+        "source": "delays connecting new AI data centres to the electricity grid",
+        "target": "weigh on their credit risk",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "If access to power \u2013 for example due to delays connecting new AI data centres to the electricity grid \u2013 acts as a bottleneck to the operation of AI data centre projects, it can also weigh on their credit risk and be a trigger for re-evaluating future AI company/project earnings."
+        }
+    },
+    {
+        "sentence_id": 150,
+        "source": "delays connecting new AI data centres to the electricity grid",
+        "target": "trigger for re-evaluating future AI company/project earnings",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "If access to power \u2013 for example due to delays connecting new AI data centres to the electricity grid \u2013 acts as a bottleneck to the operation of AI data centre projects, it can also weigh on their credit risk and be a trigger for re-evaluating future AI company/project earnings."
+        }
+    },
+    {
+        "sentence_id": 151,
+        "source": "highly indebted households and businesses",
+        "target": "worsening economic downturns",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "And highly indebted households and businesses may cut back sharply on consumption, investment, or employment to make debt repayments, worsening economic downturns."
+        }
+    },
+    {
+        "sentence_id": 154,
+        "source": "developments in monetary policy and a competitive mortgage market",
+        "target": "quoted mortgage rates have continued to decrease",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "In line with the latest developments in monetary policy and a competitive mortgage market, quoted mortgage rates have continued to decrease."
+        }
+    },
+    {
+        "sentence_id": 156,
+        "source": "rates for private non- financial corporates",
+        "target": "declining 14 basis points",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Effective rates on new bank lending to corporates have also decreased, with rates for private non- financial corporates declining 14 basis points from August to September."
+        }
+    },
+    {
+        "sentence_id": 158,
+        "source": "300 basis points increase in mortgage spreads",
+        "target": "passes through to mortgage borrowers",
+        "metadata": {
+            "polarity": "neutral",
+            "original_sentence": "It assumes both a cumulative 5% fall in disposable (post-tax) household incomes by the end of 2027 \u2013 a little larger than in the GFC \u2013 as well as a 300 basis points increase in mortgage spreads, which passes through to mortgage borrowers with a lag."
+        }
+    },
+    {
+        "sentence_id": 164,
+        "source": "recent reductions in Bank Rate",
+        "target": "Borrowing costs have decreased",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Borrowing costs have decreased following recent reductions in Bank Rate."
+        }
+    },
+    {
+        "sentence_id": 166,
+        "source": "higher interest rates",
+        "target": "increase in mortgage repayments",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "However, some households are expected to see an increase in mortgage repayments, as the full impact of higher interest rates has not yet passed through to all mortgagors."
+        }
+    },
+    {
+        "sentence_id": 168,
+        "source": "rolling off a fixed rate",
+        "target": "monthly mortgage repayments are projected to increase",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "On balance, for the typical owner-occupier mortgagor rolling off a fixed rate in the next two years, their monthly mortgage repayments are projected to increase by \u00a364 (8%), with some households facing much larger increases."
+        }
+    },
+    {
+        "sentence_id": 170,
+        "source": "This measure",
+        "target": "insurance against a marked and unsustainable loosening in underwriting standards",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This measure provides insurance against a marked and unsustainable loosening in underwriting standards and a further significant increase in the number of very highly indebted households."
+        }
+    },
+    {
+        "sentence_id": 170,
+        "source": "This measure",
+        "target": "insurance against ... a further significant increase in the number of very highly indebted households",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This measure provides insurance against a marked and unsustainable loosening in underwriting standards and a further significant increase in the number of very highly indebted households."
+        }
+    },
+    {
+        "sentence_id": 174,
+        "source": "MCOB statement",
+        "target": "fall in median stress rates",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "However, several major lenders have already changed their behaviour in response to the MCOB statement, in part driving a fall in median stress rates on Q3 completions of around 100 basis points since Q1."
+        }
+    },
+    {
+        "sentence_id": 176,
+        "source": "end of the stamp duty land tax holiday",
+        "target": "depressed",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The share of high LTI lending increased to 9.5% in Q3, in line with Q1 and up from 7.6% in Q2, which was depressed by the end of the stamp duty land tax holiday."
+        }
+    },
+    {
+        "sentence_id": 179,
+        "source": "looser credit conditions",
+        "target": "additional borrowers to enter the market",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "While looser credit conditions allow additional borrowers to enter the market in the near term, staff analysis suggests that, unless there is also an increase in housing supply, increased credit availability has limited ability directly to address barriers to home ownership."
+        }
+    },
+    {
+        "sentence_id": 180,
+        "source": "net debt increased",
+        "target": "corporate net debt to earnings ratio ticked up",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The corporate net debt to earnings ratio ticked up slightly in 2025 Q2 as net debt increased and profits fell slightly."
+        }
+    },
+    {
+        "sentence_id": 180,
+        "source": "profits fell slightly",
+        "target": "corporate net debt to earnings ratio ticked up",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The corporate net debt to earnings ratio ticked up slightly in 2025 Q2 as net debt increased and profits fell slightly."
+        }
+    },
+    {
+        "sentence_id": 181,
+        "source": "aggregate ratio remains well below Covid (166%) and post-GFC (230%) highs",
+        "target": "reducing the risk that indebted corporates would materially amplify a shock",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "At 134%, the aggregate ratio remains well below Covid (166%) and post-GFC (230%) highs, reducing the risk that indebted corporates would materially amplify a shock relative to the past."
+        }
+    },
+    {
+        "sentence_id": 182,
+        "source": "earnings fell substantially",
+        "target": "Measures of corporate vulnerability would remain low",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Chart 3.3: Measures of corporate vulnerability would remain low even if earnings fell substantially and funding costs increased Debt-weighted share of UK corporates with ICRs below 2.5 and share of UK corporates at higher risk of default and staff projections (a) (b) (c) (d) (e) Sources: Moody\u2019s: Bureau van Dijk and Bank calculations."
+        }
+    },
+    {
+        "sentence_id": 182,
+        "source": "funding costs increased",
+        "target": "Measures of corporate vulnerability would remain low",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Chart 3.3: Measures of corporate vulnerability would remain low even if earnings fell substantially and funding costs increased Debt-weighted share of UK corporates with ICRs below 2.5 and share of UK corporates at higher risk of default and staff projections (a) (b) (c) (d) (e) Sources: Moody\u2019s: Bureau van Dijk and Bank calculations."
+        }
+    },
+    {
+        "sentence_id": 185,
+        "source": "small firms with limited debt and employment",
+        "target": "most insolvencies are still driven by",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "However, there has been an uptick in insolvencies for medium-sized corporates, although most insolvencies are still driven by small firms with limited debt and employment."
+        }
+    },
+    {
+        "sentence_id": 187,
+        "source": "increased input costs",
+        "target": "more exposed",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The share of SMEs in arrears is highest in the accommodation and food, construction, and retail trade sectors, which are more exposed to increased input costs and increased labour market costs associated with a higher minimum wage and the increase in employer\u2019s national insurance contributions (NICs)."
+        }
+    },
+    {
+        "sentence_id": 187,
+        "source": "increased labour market costs associated with a higher minimum wage",
+        "target": "more exposed",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The share of SMEs in arrears is highest in the accommodation and food, construction, and retail trade sectors, which are more exposed to increased input costs and increased labour market costs associated with a higher minimum wage and the increase in employer\u2019s national insurance contributions (NICs)."
+        }
+    },
+    {
+        "sentence_id": 187,
+        "source": "increase in employer\u2019s national insurance contributions (NICs)",
+        "target": "more exposed",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The share of SMEs in arrears is highest in the accommodation and food, construction, and retail trade sectors, which are more exposed to increased input costs and increased labour market costs associated with a higher minimum wage and the increase in employer\u2019s national insurance contributions (NICs)."
+        }
+    },
+    {
+        "sentence_id": 188,
+        "source": "bank exposures are relatively small",
+        "target": "limited implications for banking system losses",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "However, SME lending has limited implications for banking system losses in aggregate because their bank exposures are relatively small, and a portion of this lending is government guaranteed."
+        }
+    },
+    {
+        "sentence_id": 188,
+        "source": "a portion of this lending is government guaranteed",
+        "target": "limited implications for banking system losses",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "However, SME lending has limited implications for banking system losses in aggregate because their bank exposures are relatively small, and a portion of this lending is government guaranteed."
+        }
+    },
+    {
+        "sentence_id": 189,
+        "source": "global shocks",
+        "target": "tighter financing conditions",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Some highly leveraged corporate borrowers relying on market-based finance areparticularly exposed to tighter financing conditions, which could be triggered by global shocks."
+        }
+    },
+    {
+        "sentence_id": 189,
+        "source": "tighter financing conditions",
+        "target": "particularly exposed",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Some highly leveraged corporate borrowers relying on market-based finance areparticularly exposed to tighter financing conditions, which could be triggered by global shocks."
+        }
+    },
+    {
+        "sentence_id": 190,
+        "source": "higher interest rates",
+        "target": "refinancing challenges",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "UK corporates borrowing via market-based finance, such as leveraged loans, high-yield bonds and private credit, might face refinancing challenges due to higher interest rates and greater borrowing levels."
+        }
+    },
+    {
+        "sentence_id": 190,
+        "source": "greater borrowing levels",
+        "target": "refinancing challenges",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "UK corporates borrowing via market-based finance, such as leveraged loans, high-yield bonds and private credit, might face refinancing challenges due to higher interest rates and greater borrowing levels."
+        }
+    },
+    {
+        "sentence_id": 191,
+        "source": "cuts in Bank Rate",
+        "target": "benefitted corporates on floating interest rates",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "While interest rates remain high, cuts in Bank Rate will have benefitted corporates on floating interest rates (eg variable-rate bank loans) that decreased in line with Bank Rate."
+        }
+    },
+    {
+        "sentence_id": 192,
+        "source": "refinance",
+        "target": "interest rate increases",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Corporate bonds, which comprise a large part of total market-based financing in the UK, are fixed for 10 years on average, meaning issuers are likely to face interest rate increases as they refinance."
+        }
+    },
+    {
+        "sentence_id": 196,
+        "source": "steeper refinancing walls",
+        "target": "increase the exposure of these corporates to higher interest rates",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The steeper refinancing walls increase the exposure of these corporates to higher interest rates and deteriorations in investor risk sentiment."
+        }
+    },
+    {
+        "sentence_id": 196,
+        "source": "steeper refinancing walls",
+        "target": "deteriorations in investor risk sentiment",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The steeper refinancing walls increase the exposure of these corporates to higher interest rates and deteriorations in investor risk sentiment."
+        }
+    },
+    {
+        "sentence_id": 197,
+        "source": "recent high-profile US corporate defaults",
+        "target": "Credit spreads across a range of markets widened",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Credit spreads across a range of markets widened marginally in November compared to the previous month, partly as a response to the recent high-profile US corporate defaults, but they remain very low by historical standards (Section 2)."
+        }
+    },
+    {
+        "sentence_id": 198,
+        "source": "This",
+        "target": "reduced corporate borrowing costs",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This has reduced corporate borrowing costs, encouraging higher levels of corporate issuance and easing refinancing burdens."
+        }
+    },
+    {
+        "sentence_id": 198,
+        "source": "reduced corporate borrowing costs",
+        "target": "encouraging higher levels of corporate issuance",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This has reduced corporate borrowing costs, encouraging higher levels of corporate issuance and easing refinancing burdens."
+        }
+    },
+    {
+        "sentence_id": 198,
+        "source": "reduced corporate borrowing costs",
+        "target": "easing refinancing burdens",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This has reduced corporate borrowing costs, encouraging higher levels of corporate issuance and easing refinancing burdens."
+        }
+    },
+    {
+        "sentence_id": 199,
+        "source": "stress in these markets",
+        "target": "pose some borrower and lender resilience challenges",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Because firms using riskier forms of market-based finance comprise at least 12% of UK employment, stress in these markets could pose some borrower and lender resilience challenges."
+        }
+    },
+    {
+        "sentence_id": 207,
+        "source": "a decline in their cost of equity",
+        "target": "UK bank valuations",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "UK bank valuations are near post-GFC highs, supported by a decline in their cost of equity and an increase in expected RoTE."
+        }
+    },
+    {
+        "sentence_id": 207,
+        "source": "an increase in expected RoTE",
+        "target": "UK bank valuations",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "UK bank valuations are near post-GFC highs, supported by a decline in their cost of equity and an increase in expected RoTE."
+        }
+    },
+    {
+        "sentence_id": 209,
+        "source": "an increase in expected aggregate RoTE",
+        "target": "Valuations of major UK banks",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Valuations of major UK banks have increased due to both an increase in expected aggregate RoTE and a decrease in their cost of equity in recent years."
+        }
+    },
+    {
+        "sentence_id": 209,
+        "source": "a decrease in their cost of equity",
+        "target": "Valuations of major UK banks",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Valuations of major UK banks have increased due to both an increase in expected aggregate RoTE and a decrease in their cost of equity in recent years."
+        }
+    },
+    {
+        "sentence_id": 214,
+        "source": "reduction in reserves",
+        "target": "gilt repo rates rose temporarily",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "As expected, gilt repo rates rose temporarily at the end of October, in part due to the reduction in reserves, but retraced following usage of the Bank\u2019s facilities."
+        }
+    },
+    {
+        "sentence_id": 214,
+        "source": "usage of the Bank\u2019s facilities",
+        "target": "gilt repo rates",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "As expected, gilt repo rates rose temporarily at the end of October, in part due to the reduction in reserves, but retraced following usage of the Bank\u2019s facilities."
+        }
+    },
+    {
+        "sentence_id": 216,
+        "source": "buyers bringing mortgage purchases forward to Q1 ahead of the stamp duty changes",
+        "target": "decline in 2025 Q2",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Following a decline in 2025 Q2 that reflected the impact of buyers bringing mortgage purchases forward to Q1 ahead of the stamp duty changes, mortgage activity picked up in Q3, including the proportion of new loans at higher LTI and LTV ratios."
+        }
+    },
+    {
+        "sentence_id": 217,
+        "source": "stronger-than-expected demand",
+        "target": "mortgage activity picked up",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This was driven by stronger-than-expected demand and an easing in lending conditions."
+        }
+    },
+    {
+        "sentence_id": 217,
+        "source": "easing in lending conditions",
+        "target": "mortgage activity picked up",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This was driven by stronger-than-expected demand and an easing in lending conditions."
+        }
+    },
+    {
+        "sentence_id": 218,
+        "source": "FCA\u2019s clarification of its Mortgage Conduct of Business (MCOB) rules",
+        "target": "banks reducing stress rates on mortgage lending",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Some of this easing reflected banks reducing stress rates on mortgage lending in response to the FCA\u2019s clarification of its Mortgage Conduct of Business (MCOB) rules (Section 3)."
+        }
+    },
+    {
+        "sentence_id": 219,
+        "source": "full impact of the FCA clarification",
+        "target": "further increases in lending at higher LTV and LTI ratios",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Looking forward, there may be further increases in lending at higher LTV and LTI ratios as the full impact of the FCA clarification feeds through, along with effect of the adjustment made by the PRA to the application of the LTI flow limit, following the FPC\u2019s updated recommendation in Q2 (Section 3)."
+        }
+    },
+    {
+        "sentence_id": 219,
+        "source": "adjustment made by the PRA to the application of the LTI flow limit",
+        "target": "further increases in lending at higher LTV and LTI ratios",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Looking forward, there may be further increases in lending at higher LTV and LTI ratios as the full impact of the FCA clarification feeds through, along with effect of the adjustment made by the PRA to the application of the LTI flow limit, following the FPC\u2019s updated recommendation in Q2 (Section 3)."
+        }
+    },
+    {
+        "sentence_id": 222,
+        "source": "Increased competition",
+        "target": "compressed spreads",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Increased competition is said to be contributing to compressed spreads and an easing in some loan terms."
+        }
+    },
+    {
+        "sentence_id": 222,
+        "source": "Increased competition",
+        "target": "an easing in some loan terms",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Increased competition is said to be contributing to compressed spreads and an easing in some loan terms."
+        }
+    },
+    {
+        "sentence_id": 224,
+        "source": "mortgage activity brought forward to the first quarter",
+        "target": "A fall in gross lending volumes",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Chart 4.2: A fall in gross lending volumes from banks and building societies in 2025 Q2 reflected the impact of mortgage activity brought forward to the first quarter."
+        }
+    },
+    {
+        "sentence_id": 226,
+        "source": "PTF activities",
+        "target": "banks\u2019 intraday exposures, through their PTF clients, exceeding end-of day positions",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "As PTF activities often involve high volumes of intraday trading, this can result in banks\u2019 intraday exposures, through their PTF clients, exceeding end-of day positions."
+        }
+    },
+    {
+        "sentence_id": 228,
+        "source": "higher capital",
+        "target": "pushing up on borrowing costs",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This assessment weighs the macroeconomic costs of capital, which stem from the impact of higher capital pushing up on borrowing costs, against the benefits of capital, which come about because higher bank capital reduces the likelihood and costs of financial crises."
+        }
+    },
+    {
+        "sentence_id": 228,
+        "source": "higher bank capital",
+        "target": "reduces the likelihood and costs of financial crises",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This assessment weighs the macroeconomic costs of capital, which stem from the impact of higher capital pushing up on borrowing costs, against the benefits of capital, which come about because higher bank capital reduces the likelihood and costs of financial crises."
+        }
+    },
+    {
+        "sentence_id": 231,
+        "source": "fall in banks\u2019 average risk weights",
+        "target": "\u00a360 billion less nominal capital",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The 7\u00bd percentage point fall in banks\u2019 average risk weights (measured excluding central bank reserves) since the beginning of 2016 means that the FPC\u2019s previous Tier 1 benchmark is now associated with around \u00a360 billion less nominal capital, based on the size of current balance sheets, than would have been the case absent the fall in risk weights; systemic buffers are lower than envisaged in 2015 as some banks have decreased in systemic importance; and the implementation of Basel 3.1 on 1 January 2027 will improve risk measurement, allowing the Prudential Regulation Authority (PRA) to reduce Pillar 2A minimum requirements by around \u00bd percentage point."
+        }
+    },
+    {
+        "sentence_id": 231,
+        "source": "implementation of Basel 3.1",
+        "target": "reduce Pillar 2A minimum requirements",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The 7\u00bd percentage point fall in banks\u2019 average risk weights (measured excluding central bank reserves) since the beginning of 2016 means that the FPC\u2019s previous Tier 1 benchmark is now associated with around \u00a360 billion less nominal capital, based on the size of current balance sheets, than would have been the case absent the fall in risk weights; systemic buffers are lower than envisaged in 2015 as some banks have decreased in systemic importance; and the implementation of Basel 3.1 on 1 January 2027 will improve risk measurement, allowing the Prudential Regulation Authority (PRA) to reduce Pillar 2A minimum requirements by around \u00bd percentage point."
+        }
+    },
+    {
+        "sentence_id": 232,
+        "source": "Basel 3.1 is implemented",
+        "target": "level of system-wide Tier 1 capital requirements is expected to fall",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "As a result, the level of system-wide Tier 1 capital requirements is expected to fall to around 13% of RWAs when Basel 3.1 is implemented, consistent with the FPC\u2019s updated benchmark."
+        }
+    },
+    {
+        "sentence_id": 234,
+        "source": "economic outlook improved",
+        "target": "credit conditions for households and businesses improved",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "As the economic outlook improved following recent shocks, credit conditions for households and businesses improved commensurately and have since evolved in line with the macroeconomic outlook."
+        }
+    },
+    {
+        "sentence_id": 235,
+        "source": "Higher returns on tangible equity (RoTE)",
+        "target": "material increase in UK banks\u2019 equity market valuations",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Higher returns on tangible equity (RoTE) \u2013 and investors\u2019 increasing confidence that those returns can be sustained \u2013 have supported a material increase in UK banks\u2019 equity market valuations (Section 4)."
+        }
+    },
+    {
+        "sentence_id": 235,
+        "source": "investors\u2019 increasing confidence",
+        "target": "material increase in UK banks\u2019 equity market valuations",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Higher returns on tangible equity (RoTE) \u2013 and investors\u2019 increasing confidence that those returns can be sustained \u2013 have supported a material increase in UK banks\u2019 equity market valuations (Section 4)."
+        }
+    },
+    {
+        "sentence_id": 237,
+        "source": "premium investors demand to hold UK banks\u2019 equity relative to their debt has fallen",
+        "target": "reduces the cost to banks of increasing their share of equity funding",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Relatedly, there is evidence that the premium investors demand to hold UK banks\u2019 equity relative to their debt has fallen, which reduces the cost to banks of increasing their share of equity funding relative to debt funding, all else equal."
+        }
+    },
+    {
+        "sentence_id": 239,
+        "source": "materially lower capital requirements",
+        "target": "significant reductions in long-run expected GDP",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Analysis suggests that materially lower capital requirements could lead to significant reductions in long-run expected GDP."
+        }
+    },
+    {
+        "sentence_id": 240,
+        "source": "credible and effective resolution arrangements, effective supervision, structural reform such as the implementation of ring-fencing, and the Committee\u2019s active use of the time-varying CCyB",
+        "target": "materially reduced the FPC\u2019s assessment of the appropriate level of capital",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Those judgements were related to credible and effective resolution arrangements, effective supervision, structural reform such as the implementation of ring-fencing, and the Committee\u2019s active use of the time-varying CCyB. Together, these judgements materially reduced the FPC\u2019s assessment of the appropriate level of capital in 2015."
+        }
+    },
+    {
+        "sentence_id": 241,
+        "source": "reducing system-wide capital requirements materially below the FPC\u2019s updated benchmark of 13%",
+        "target": "significant reductions in long-run expected GDP",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Analysis also suggests that reducing system-wide capital requirements materially below the FPC\u2019s updated benchmark of 13% (unless due to further improvements in risk measurement that allow overlaps to be removed from Pillar 2A requirements) could be associated with significant reductions in long-run expected GDP through the costs of greater instability \u2013 especially if those reductions in capital were to undermine the credibility of the resolution regime as a result of lower overall loss-absorbing capacity."
+        }
+    },
+    {
+        "sentence_id": 243,
+        "source": "enhancing buffer usability",
+        "target": "banks to support a material increase in lending",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "But to the extent that incentives to maintain excess capital can be reduced by enhancing buffer usability, this could allow banks to support a material increase in lending."
+        }
+    },
+    {
+        "sentence_id": 244,
+        "source": "reduction of the FPC\u2019s important Tier 1 benchmark to 13%",
+        "target": "provide banks with greater certainty and confidence to use their existing capital to support lending to the real economy",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The reduction of the FPC\u2019s important Tier 1 benchmark to 13% should also provide banks with greater certainty and confidence to use their existing capital to support lending to the real economy."
+        }
+    },
+    {
+        "sentence_id": 246,
+        "source": "underlying reductions in the riskiness of banks\u2019 exposures",
+        "target": "leverage ratio has become more binding",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "For example, the FPC will explore the extent to which the leverage ratio has become more binding as a result of underlying reductions in the riskiness of banks\u2019 exposures."
+        }
+    },
+    {
+        "sentence_id": 247,
+        "source": "Global trading relationships fragment",
+        "target": "severe supply chain disruptions",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Global trading relationships fragment, leading to severe supply chain disruptions, which contributes to a large fall in world trade volumes."
+        }
+    },
+    {
+        "sentence_id": 247,
+        "source": "severe supply chain disruptions",
+        "target": "large fall in world trade volumes",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Global trading relationships fragment, leading to severe supply chain disruptions, which contributes to a large fall in world trade volumes."
+        }
+    },
+    {
+        "sentence_id": 250,
+        "source": "Increased risk aversion",
+        "target": "large falls in asset prices",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Increased risk aversion leads to large falls in asset prices, while elevated sovereign debt levels in advanced economies put further upward pressure on government bond yields."
+        }
+    },
+    {
+        "sentence_id": 250,
+        "source": "elevated sovereign debt levels in advanced economies",
+        "target": "upward pressure on government bond yields",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Increased risk aversion leads to large falls in asset prices, while elevated sovereign debt levels in advanced economies put further upward pressure on government bond yields."
+        }
+    },
+    {
+        "sentence_id": 251,
+        "source": "lower credit demand and a worsening economic outlook",
+        "target": "Credit growth slows",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Credit growth slows in the early part of the stress reflecting lower credit demand and a worsening economic outlook, however it recovers in the later years and lending to the UK real economy is assumed to increase by more than 6.5% over the scenario horizon."
+        }
+    },
+    {
+        "sentence_id": 253,
+        "source": "the stress",
+        "target": "aggregate CET1 capital ratio falls",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The aggregate CET1 capital ratio falls to a low point of 11.0% in the first year of the stress, which equates to an aggregate capital drawdown of 3.5 percentage points."
+        }
+    },
+    {
+        "sentence_id": 257,
+        "source": "an increase in credit impairments",
+        "target": "capital drawdown",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The key drivers of the capital drawdown are an increase in credit impairments (Section 5.3) and traded risk losses (Section 5.4), which are only partially offset by higher NII in the first year of the stress (Section 5.5)."
+        }
+    },
+    {
+        "sentence_id": 257,
+        "source": "traded risk losses",
+        "target": "capital drawdown",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The key drivers of the capital drawdown are an increase in credit impairments (Section 5.3) and traded risk losses (Section 5.4), which are only partially offset by higher NII in the first year of the stress (Section 5.5)."
+        }
+    },
+    {
+        "sentence_id": 257,
+        "source": "higher NII",
+        "target": "capital drawdown",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The key drivers of the capital drawdown are an increase in credit impairments (Section 5.3) and traded risk losses (Section 5.4), which are only partially offset by higher NII in the first year of the stress (Section 5.5)."
+        }
+    },
+    {
+        "sentence_id": 259,
+        "source": "Credit impairments",
+        "target": "reduce the aggregate CET1 capital ratio",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Credit impairments reduce the aggregate CET1 capital ratio by 3.3 percentage points at the low point (year 1)."
+        }
+    },
+    {
+        "sentence_id": 262,
+        "source": "less severe inflation path",
+        "target": "reduced the affordability impact",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The less severe inflation path in this test has also reduced the affordability impact."
+        }
+    },
+    {
+        "sentence_id": 264,
+        "source": "improved asset quality in non-UK consumer lending",
+        "target": "Non-UK consumer credit impairments are \u00a319 billion, which is lower than in the 2022/23 ACS",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This is due to improved asset quality in non-UK consumer lending which includes a range of countries and products."
+        }
+    },
+    {
+        "sentence_id": 265,
+        "source": "rising costs, trade disruption and higher interest rates",
+        "target": "impairments",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "There are common drivers of impairments across corporate portfolios \u2013 for example 70% of banks reported impairments were from sectors judged vulnerable to rising costs, trade disruption and higher interest rates."
+        }
+    },
+    {
+        "sentence_id": 266,
+        "source": "price falls over the previous 18 months",
+        "target": "increased LTV ratios",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "UK CRE impairment rates are broadly unchanged since the 2022/23 ACS, as price falls over the previous 18 months have contributed to increased LTV ratios."
+        }
+    },
+    {
+        "sentence_id": 267,
+        "source": "reduction in CRE losses in Hong Kong and China",
+        "target": "This is significantly lower than in the 2022/23 ACS",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This is significantly lower than in the 2022/23 ACS, primarily driven by a reduction in CRE losses in Hong Kong and China."
+        }
+    },
+    {
+        "sentence_id": 273,
+        "source": "increasing the UK house price fall beyond 30%",
+        "target": "increasing marginal impact on bank losses",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Chart 5.2 shows that increasing the UK house price fall beyond 30% would tend to have an increasing marginal impact on bank losses as a greater proportion of their lending would be secured on collateral worth less than the value of the loan."
+        }
+    },
+    {
+        "sentence_id": 274,
+        "source": "the fall in UK house prices were 10 percentage points greater",
+        "target": "aggregate UK mortgage impairments would be around twice as great",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "For instance, if the fall in UK house prices were 10 percentage points greater, aggregate UK mortgage impairments would be around twice as great as in the Bank Capital Stress Test."
+        }
+    },
+    {
+        "sentence_id": 275,
+        "source": "The traded risk scenario",
+        "target": "reduces banks\u2019 aggregate CET1 capital ratio by 0.8 percentage points",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "5.4: Traded risk The traded risk scenario reduces banks\u2019 aggregate CET1 capital ratio by 0.8 percentage points in the first year of the stress."
+        }
+    },
+    {
+        "sentence_id": 279,
+        "source": "these factors",
+        "target": "reduces banks\u2019 capital by around \u00a315 billion",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Overall, the net impact of these factors reduces banks\u2019 capital by around \u00a315 billion, equivalent to 0.8 percentage points of the CET1 capital ratio."
+        }
+    },
+    {
+        "sentence_id": 280,
+        "source": "a sharp fall in fees from advisory activities",
+        "target": "Revenues decline",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Revenues decline in the first year of the stress, driven by a sharp fall in fees from advisory activities, though they are somewhat supported by resilient client trading activities in response to increased financial market volatility."
+        }
+    },
+    {
+        "sentence_id": 280,
+        "source": "increased financial market volatility",
+        "target": "resilient client trading activities",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Revenues decline in the first year of the stress, driven by a sharp fall in fees from advisory activities, though they are somewhat supported by resilient client trading activities in response to increased financial market volatility."
+        }
+    },
+    {
+        "sentence_id": 281,
+        "source": "stress scenario",
+        "target": "losses in fair-value through other comprehensive income securities, trading inventories and related valuations adjustments",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "However, this revenue is offset by \u00a335 billion of losses due to the stress scenario leading to losses in fair-value through other comprehensive income securities, trading inventories and related valuations adjustments."
+        }
+    },
+    {
+        "sentence_id": 282,
+        "source": "Higher interest rates and a higher spread between government bond yields and OIS rates",
+        "target": "lower fair value of bond holdings",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Higher interest rates and a higher spread between government bond yields and OIS rates in the scenario lead to lower fair value of bond holdings in banks\u2019 liquid asset buffers, which contributed to a \u00a315.5 billion reduction in capital."
+        }
+    },
+    {
+        "sentence_id": 282,
+        "source": "lower fair value of bond holdings",
+        "target": "\u00a315.5 billion reduction in capital",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Higher interest rates and a higher spread between government bond yields and OIS rates in the scenario lead to lower fair value of bond holdings in banks\u2019 liquid asset buffers, which contributed to a \u00a315.5 billion reduction in capital."
+        }
+    },
+    {
+        "sentence_id": 283,
+        "source": "Trading book losses from market risk shocks, defaults of selected vulnerable counterparties and valuation adjustments",
+        "target": "\u00a319 billion reduction in capital",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Trading book losses from market risk shocks, defaults of selected vulnerable counterparties and valuation adjustments contributed to a \u00a319 billion reduction in capital, reflecting the sudden and severe shocks to financial markets."
+        }
+    },
+    {
+        "sentence_id": 285,
+        "source": "interest rates increased",
+        "target": "loan margins recovered",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Over recent years, as interest rates increased from historically low levels, loan margins recovered to be in line with historical averages (Chart 5.3)."
+        }
+    },
+    {
+        "sentence_id": 286,
+        "source": "higher expected credit losses on new loans",
+        "target": "spreads on lending to UK households and businesses increase",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "First, it is assumed that spreads on lending to UK households and businesses increase by only a limited amount that reflects higher expected credit losses on new loans."
+        }
+    },
+    {
+        "sentence_id": 288,
+        "source": "interest rates increase",
+        "target": "customers would move deposits from accounts that pay no interest to deposit accounts that do pay interest",
+        "metadata": {
+            "polarity": "neutral",
+            "original_sentence": "Second, as interest rates increase many customers would move deposits from accounts that pay no interest to deposit accounts that do pay interest."
+        }
+    },
+    {
+        "sentence_id": 290,
+        "source": "increase in Bank Rate",
+        "target": "pass through around 70% of the increase in Bank Rate to sterling deposit rates",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Third, it is assumed that banks pass through around 70% of the increase in Bank Rate to sterling deposit rates within the first year of the stress."
+        }
+    },
+    {
+        "sentence_id": 292,
+        "source": "10 percentage point change in the deposit pass-through rate",
+        "target": "affect the aggregate CET1 capital ratio",
+        "metadata": {
+            "polarity": "neutral",
+            "original_sentence": "Sensitivity analysis suggests that a 10 percentage point change in the deposit pass-through rate on sterling deposits would be expected to affect the aggregate CET1 capital ratio by around 15 basis points at the low point of the stress in year 1 (Chart 5.4)."
+        }
+    },
+    {
+        "sentence_id": 293,
+        "source": "exposures become riskier during the stress",
+        "target": "average risk weights for credit exposures increase",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In the first year of the stress, average risk weights for credit exposures increase from 33% to 37%, as these exposures become riskier during the stress."
+        }
+    },
+    {
+        "sentence_id": 294,
+        "source": "increase in risk-weights",
+        "target": "downward pressure on CET1 capital ratios",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The increase in risk-weights puts downward pressure on CET1 capital ratios \u2013 defined as CET1 capital as a percentage of RWAs \u2013 and they fall as RWAs increase."
+        }
+    },
+    {
+        "sentence_id": 294,
+        "source": "RWAs increase",
+        "target": "CET1 capital ratios ... fall",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The increase in risk-weights puts downward pressure on CET1 capital ratios \u2013 defined as CET1 capital as a percentage of RWAs \u2013 and they fall as RWAs increase."
+        }
+    },
+    {
+        "sentence_id": 295,
+        "source": "higher consumer prices",
+        "target": "rise in staff and non-staff costs",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Expenses increase materially in later years, as the effect of higher consumer prices feeds through to a rise in staff and non-staff costs."
+        }
+    },
+    {
+        "sentence_id": 299,
+        "source": "SMAs",
+        "target": "support the aggregate CET1 capital ratio",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In the 2025 stress test, SMAs support the aggregate CET1 capital ratio by 0.8 percentage points and the aggregate leverage ratio by 0.3 percentage points."
+        }
+    },
+    {
+        "sentence_id": 299,
+        "source": "SMAs",
+        "target": "support ... the aggregate leverage ratio",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In the 2025 stress test, SMAs support the aggregate CET1 capital ratio by 0.8 percentage points and the aggregate leverage ratio by 0.3 percentage points."
+        }
+    },
+    {
+        "sentence_id": 300,
+        "source": "earlier recognition of losses under IFRS 9",
+        "target": "enhances transparency and market confidence",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The earlier recognition of losses under IFRS 9 enhances transparency and market confidence in measures of banks\u2019 capital positions, including in a downturn, thereby supporting financial stability and the safety and soundness of individual banks."
+        }
+    },
+    {
+        "sentence_id": 300,
+        "source": "earlier recognition of losses under IFRS 9",
+        "target": "supporting financial stability and the safety and soundness of individual banks",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The earlier recognition of losses under IFRS 9 enhances transparency and market confidence in measures of banks\u2019 capital positions, including in a downturn, thereby supporting financial stability and the safety and soundness of individual banks."
+        }
+    },
+    {
+        "sentence_id": 301,
+        "source": "capital is drawn down earlier to raise provisions",
+        "target": "bank capital, as measured under IFRS 9, is likely to fall more sharply",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "All else equal, bank capital, as measured under IFRS 9, is likely to fall more sharply in the early part of a stress as capital is drawn down earlier to raise provisions."
+        }
+    },
+    {
+        "sentence_id": 305,
+        "source": "This",
+        "target": "some credit losses being recognised later in the exercise",
+        "metadata": {
+            "polarity": "neutral",
+            "original_sentence": "This has resulted in a scenario that is more closely aligned to the average of historical advanced-economy stresses and the GFC and has led to some credit losses being recognised later in the exercise."
+        }
+    },
+    {
+        "sentence_id": 306,
+        "source": "This change",
+        "target": "a reduction in the aggregate proportion of five-year losses in the first year of the stress scenario",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This change has contributed to a reduction in the aggregate proportion of five-year losses in the first year of the stress scenario from 59% in the 2022/23 Annual Cyclical Scenario to 52% in the 2025 Bank Capital Stress Test."
+        }
+    },
+    {
+        "sentence_id": 307,
+        "source": "This updated methodology",
+        "target": "the start-to-trough changes in some variables being somewhat smaller",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This updated methodology has resulted in the start-to-trough changes in some variables being somewhat smaller over the scenario horizon than they otherwise would have been."
+        }
+    },
+    {
+        "sentence_id": 308,
+        "source": "The removal of past judgements",
+        "target": "reduce the five-year impairment rate on UK unsecured personal credit portfolios",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The removal of past judgements is estimated to reduce the five-year impairment rate on UK unsecured personal credit portfolios in the 2025 Bank Capital Stress Test by 4.6 percentage points."
+        }
+    },
+    {
+        "sentence_id": 309,
+        "source": "other capital buffers, such as the CCyB and CCoB",
+        "target": "absorb the losses",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "For some banks, this is because other capital buffers, such as the CCyB and CCoB, would be sufficient to absorb the losses in the scenario."
+        }
+    },
+    {
+        "sentence_id": 312,
+        "source": "asset values fall below agreed thresholds",
+        "target": "funds may need to post additional collateral or repay part of the loan",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "If asset values fall below agreed thresholds, funds may need to post additional collateral or repay part of the loan to maintain compliance with covenants of the loan agreement."
+        }
+    },
+    {
+        "sentence_id": 314,
+        "source": "high levels of debt on the underlying corporates\u2019 balance sheets",
+        "target": "This lending tends to be riskier",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This lending tends to be riskier than other types of lending to businesses due to high levels of debt on the underlying corporates\u2019 balance sheets."
+        }
+    },
+    {
+        "sentence_id": 315,
+        "source": "capital commitments from large institutional investors and diverse asset pools with low loan to value ratios",
+        "target": "historically low loss rates on private market fund financing lines",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Loss rates on private market fund financing lines have historically been low\u2026 Banks have explained historically low loss rates on private market fund financing lines to be supported by capital commitments from large institutional investors and diverse asset pools with low loan to value ratios."
+        }
+    },
+    {
+        "sentence_id": 316,
+        "source": "large repayments of the Term Funding scheme with additional incentives for Small and Medium-sized enterprises (TFSME)",
+        "target": "elevated repo rates",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The spread between gilt repo rates and Bank Rate has consistently been around its recent average, with the exception of expected periods of elevated repo rates such as period end, or following large repayments of the Term Funding scheme with additional incentives for Small and Medium-sized enterprises (TFSME)."
+        }
+    },
+    {
+        "sentence_id": 317,
+        "source": "higher nominal yields",
+        "target": "improve their funding ratios",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In contrast, firms such as insurers and pension funds, who had the highest demand for gilts historically, especially at longer maturities, have become less active as higher nominal yields improve their funding ratios, and an ageing population may encourage funds to shift toward shorter-term assets to ensure liquidity for paying current benefits."
+        }
+    },
+    {
+        "sentence_id": 317,
+        "source": "an ageing population",
+        "target": "encourage funds to shift toward shorter-term assets",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In contrast, firms such as insurers and pension funds, who had the highest demand for gilts historically, especially at longer maturities, have become less active as higher nominal yields improve their funding ratios, and an ageing population may encourage funds to shift toward shorter-term assets to ensure liquidity for paying current benefits."
+        }
+    },
+    {
+        "sentence_id": 318,
+        "source": "warehousing risk and intermediating between different types of market participants",
+        "target": "improving market liquidity and price discovery",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Leveraged market participants can often serve a useful function by warehousing risk and intermediating between different types of market participants, thereby improving market liquidity and price discovery."
+        }
+    },
+    {
+        "sentence_id": 325,
+        "source": "The small number of funds running crowded and heavily leveraged trades in the gilt repo market",
+        "target": "increases the potential risk of sharp moves",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The small number of funds running crowded and heavily leveraged trades in the gilt repo market increases the potential risk of sharp moves as funds could need simultaneously to deleverage in response to a shock."
+        }
+    },
+    {
+        "sentence_id": 326,
+        "source": "Forced or widespread deleveraging",
+        "target": "amplifying initial moves",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The July 2025 Financial Stability Report outlined four common triggers that could lead to forced or widespread deleveraging of leveraged trades.[29] Forced or widespread deleveraging would have the result of amplifying initial moves and potentially triggering a feedback loop of further forced selling, especially if funding conditions tightened to the extent that refinancing became unavailable or prohibitively expensive."
+        }
+    },
+    {
+        "sentence_id": 326,
+        "source": "Forced or widespread deleveraging",
+        "target": "triggering a feedback loop of further forced selling",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The July 2025 Financial Stability Report outlined four common triggers that could lead to forced or widespread deleveraging of leveraged trades.[29] Forced or widespread deleveraging would have the result of amplifying initial moves and potentially triggering a feedback loop of further forced selling, especially if funding conditions tightened to the extent that refinancing became unavailable or prohibitively expensive."
+        }
+    },
+    {
+        "sentence_id": 327,
+        "source": "Banks\u2019 potential unwillingness to roll repo financing",
+        "target": "counterparty concerns or balance sheet constraints",
+        "metadata": {
+            "polarity": "neutral",
+            "original_sentence": "Banks\u2019 potential unwillingness to roll repo financing due to counterparty concerns or balance sheet constraints, was a key finding of last year\u2019s SWES."
+        }
+    },
+    {
+        "sentence_id": 329,
+        "source": "company-specific challenges, including alleged fraud",
+        "target": "defaults of First Brands and Tricolor",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Markets have broadly seen the defaults of First Brands and Tricolor as driven by company-specific challenges, including alleged fraud, with no material repricing in credit markets (Section 2)."
+        }
+    },
+    {
+        "sentence_id": 331,
+        "source": "opacity and complex structures",
+        "target": "significant alleged fraud to go undetected",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The opacity and complex structures may have been a contributing factor that allowed significant alleged fraud to go undetected for a period."
+        }
+    },
+    {
+        "sentence_id": 335,
+        "source": "This",
+        "target": "funds increasingly using other strategies to provide returns to investors",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This has led to funds increasingly using other strategies to provide returns to investors, such as continuation vehicles that transfer ownership of selected portfolio companies to a new fund."
+        }
+    },
+    {
+        "sentence_id": 337,
+        "source": "behaviours of banks and NBFIs active in the private markets ecosystem in response to a downturn",
+        "target": "amplify stress across the financial system",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The SWES will improve the Bank\u2019s understanding of the behaviours of banks and NBFIs active in the private markets ecosystem in response to a downturn, and whether those behaviours will amplify stress across the financial system and pose risks to UK financial stability."
+        }
+    },
+    {
+        "sentence_id": 339,
+        "source": "deleveraging",
+        "target": "forced sales",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The policy positions, or as deleveraging leads to recommendations propose a robust set of metrics forced sales, which in turn could and policy tools (eg activity and entity-based amplify shocks and lead to market measures) to monitor leverage as well as contain dysfunction and a potential tightening the financial stability risk of leverage."
+        }
+    },
+    {
+        "sentence_id": 339,
+        "source": "forced sales",
+        "target": "amplify shocks",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The policy positions, or as deleveraging leads to recommendations propose a robust set of metrics forced sales, which in turn could and policy tools (eg activity and entity-based amplify shocks and lead to market measures) to monitor leverage as well as contain dysfunction and a potential tightening the financial stability risk of leverage."
+        }
+    },
+    {
+        "sentence_id": 339,
+        "source": "forced sales",
+        "target": "market dysfunction",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The policy positions, or as deleveraging leads to recommendations propose a robust set of metrics forced sales, which in turn could and policy tools (eg activity and entity-based amplify shocks and lead to market measures) to monitor leverage as well as contain dysfunction and a potential tightening the financial stability risk of leverage."
+        }
+    },
+    {
+        "sentence_id": 343,
+        "source": "limited dealer intermediation capacity",
+        "target": "forced selling of gilts by NBFIs",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Exacerbated by limited dealer The FPC also welcomed the progress the Bank had intermediation capacity, these events made in developing a new lending facility, the have led to periods of forced selling Contingent NBFI Repo Facility (CNRF), to address of gilts by NBFIs and self-reinforcing severe market dysfunction in the gilt market that price spirals, threatening UK financial threatens UK financial stability arising from shocks stability."
+        }
+    },
+    {
+        "sentence_id": 343,
+        "source": "forced selling of gilts by NBFIs",
+        "target": "self-reinforcing price spirals",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Exacerbated by limited dealer The FPC also welcomed the progress the Bank had intermediation capacity, these events made in developing a new lending facility, the have led to periods of forced selling Contingent NBFI Repo Facility (CNRF), to address of gilts by NBFIs and self-reinforcing severe market dysfunction in the gilt market that price spirals, threatening UK financial threatens UK financial stability arising from shocks stability."
+        }
+    },
+    {
+        "sentence_id": 343,
+        "source": "severe market dysfunction in the gilt market",
+        "target": "threatens UK financial stability",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Exacerbated by limited dealer The FPC also welcomed the progress the Bank had intermediation capacity, these events made in developing a new lending facility, the have led to periods of forced selling Contingent NBFI Repo Facility (CNRF), to address of gilts by NBFIs and self-reinforcing severe market dysfunction in the gilt market that price spirals, threatening UK financial threatens UK financial stability arising from shocks stability."
+        }
+    },
+    {
+        "sentence_id": 345,
+        "source": "increased geopolitical tensions and advances in technology",
+        "target": "increase in risk",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This increase in risk reflects increased geopolitical tensions and advances in technology."
+        }
+    },
+    {
+        "sentence_id": 346,
+        "source": "increased automation",
+        "target": "reduce operational risks",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "New technologies such as AI and Distributed Ledger Technology (DLT) provide benefits to some firms, and increased automation may reduce operational risks."
+        }
+    },
+    {
+        "sentence_id": 348,
+        "source": "business interruption",
+        "target": "losses",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This can include losses sustained due to business interruption, as well as the costs incurred from responding to and recovering from an attack or incident."
+        }
+    },
+    {
+        "sentence_id": 348,
+        "source": "responding to and recovering from an attack or incident",
+        "target": "costs incurred",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This can include losses sustained due to business interruption, as well as the costs incurred from responding to and recovering from an attack or incident."
+        }
+    },
+    {
+        "sentence_id": 349,
+        "source": "limited security budgets",
+        "target": "insurance may be unaffordable",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "For example, a 2025 DSIT report found that for UK small and medium businesses, insurance may be unaffordable, especially for firms with limited security budgets."
+        }
+    },
+    {
+        "sentence_id": 352,
+        "source": "the economy adjusts to these new forms of money",
+        "target": "reduced lending to businesses and households",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The FPC welcomes this work, recognising both the transformative potential of technology associated with stablecoins and that there is a risk of reduced lending to businesses and households as the economy adjusts to these new forms of money."
+        }
+    },
+    {
+        "sentence_id": 354,
+        "source": "Higher carbon prices",
+        "target": "increase corporate credit risks",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Higher carbon prices also increase corporate credit risks due to higher costs and lower expected revenues for businesses."
+        }
+    },
+    {
+        "sentence_id": 354,
+        "source": "higher costs and lower expected revenues",
+        "target": "corporate credit risks",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Higher carbon prices also increase corporate credit risks due to higher costs and lower expected revenues for businesses."
+        }
+    },
+    {
+        "sentence_id": 355,
+        "source": "increased frequency and severity of extreme weather events",
+        "target": "losses",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In the physical risk-focused scenario, losses are driven by the increased frequency and severity of extreme weather events as global temperatures rise, which would have a severe negative impact on GDP and corporate earnings."
+        }
+    },
+    {
+        "sentence_id": 355,
+        "source": "global temperatures rise",
+        "target": "increased frequency and severity of extreme weather events",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "In the physical risk-focused scenario, losses are driven by the increased frequency and severity of extreme weather events as global temperatures rise, which would have a severe negative impact on GDP and corporate earnings."
+        }
+    },
+    {
+        "sentence_id": 355,
+        "source": "the physical risk-focused scenario",
+        "target": "severe negative impact on GDP and corporate earnings",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "In the physical risk-focused scenario, losses are driven by the increased frequency and severity of extreme weather events as global temperatures rise, which would have a severe negative impact on GDP and corporate earnings."
+        }
+    },
+    {
+        "sentence_id": 356,
+        "source": "a severe macro shock associated with transition risks",
+        "target": "a 16% fall in government bond prices",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "For example, a severe macro shock associated with transition risks could lead to a 16% fall in government bond prices."
+        }
+    },
+    {
+        "sentence_id": 357,
+        "source": "The physical risk-focused scenario",
+        "target": "a smaller fall in government bond prices of around [37] 8%",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The physical risk-focused scenario leads to a smaller fall in government bond prices of around [37] 8%, largely because there is limited interest rate risk in the scenario used \u2013 even though the negative GDP impact of the physical risk-focused scenario is much larger than in the transition risk- focused scenario."
+        }
+    },
+    {
+        "sentence_id": 358,
+        "source": "these scenarios are priced in",
+        "target": "Corporate bond and equity prices could also fall",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Corporate bond and equity prices could also fall as these scenarios are priced in, with UK corporate bond prices falling by 12% and the FTSE All-Share index falling in value by around 24% under the transition risk scenario."
+        }
+    },
+    {
+        "sentence_id": 358,
+        "source": "the transition risk scenario",
+        "target": "UK corporate bond prices falling by 12% and the FTSE All-Share index falling in value by around 24%",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Corporate bond and equity prices could also fall as these scenarios are priced in, with UK corporate bond prices falling by 12% and the FTSE All-Share index falling in value by around 24% under the transition risk scenario."
+        }
+    },
+    {
+        "sentence_id": 359,
+        "source": "investors price in lower cash flows and higher costs related to transition policies",
+        "target": "corporate bonds issued by firms in the transport and mining and quarrying sectors could fall in value by as much as 60%",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "For example, corporate bonds issued by firms in the transport and mining and quarrying sectors could fall in value by as much as 60% as investors price in lower cash flows and higher costs related to transition policies."
+        }
+    },
+    {
+        "sentence_id": 360,
+        "source": "downgraded from investment grade to high yield",
+        "target": "required to sell corporate bonds",
+        "metadata": {
+            "polarity": "neutral",
+            "original_sentence": "For example, institutional investors could be required to sell corporate bonds if they were downgraded from investment grade to high yield or be forced to sell assets to meet liquidity needs from redemptions or margin calls on leveraged exposures."
+        }
+    },
+    {
+        "sentence_id": 360,
+        "source": "redemptions or margin calls on leveraged exposures",
+        "target": "forced to sell assets",
+        "metadata": {
+            "polarity": "neutral",
+            "original_sentence": "For example, institutional investors could be required to sell corporate bonds if they were downgraded from investment grade to high yield or be forced to sell assets to meet liquidity needs from redemptions or margin calls on leveraged exposures."
+        }
+    },
+    {
+        "sentence_id": 361,
+        "source": "Such actions",
+        "target": "increase the corporate bond price impact",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Such actions could increase the corporate bond price impact of the transition-focused scenario by around 4 percentage points."
+        }
+    },
+    {
+        "sentence_id": 362,
+        "source": "government policy",
+        "target": "increases in carbon prices",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "These businesses are vulnerable to increases in carbon prices, which can occur as a result of government policy, but also in response to increases in gas prices."
+        }
+    },
+    {
+        "sentence_id": 362,
+        "source": "increases in gas prices",
+        "target": "increases in carbon prices",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "These businesses are vulnerable to increases in carbon prices, which can occur as a result of government policy, but also in response to increases in gas prices."
+        }
+    },
+    {
+        "sentence_id": 363,
+        "source": "EPC rating of \u2018C\u2019 or above could become a minimum requirement for rentability",
+        "target": "losses on their lending secured on buy-to-let properties",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Banks could face losses on their lending secured on buy-to-let properties as an EPC rating of \u2018C\u2019 or above could become a minimum requirement for rentability as early as 2028."
+        }
+    },
+    {
+        "sentence_id": 364,
+        "source": "high availability of flood insurance",
+        "target": "Losses to banks from flooding are also mitigated",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Losses to banks from flooding are also mitigated by the high availability of flood insurance, including due to the presence of Flood Re (more information below)."
+        }
+    },
+    {
+        "sentence_id": 365,
+        "source": "FPC\u2019s loan to income (LTI) flow limit",
+        "target": "protection against the UK household sector becoming overly indebted",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Most UK mortgages have an LTV ratio below 70%, and the FPC\u2019s loan to income (LTI) flow limit provides protection against the UK household sector becoming overly indebted."
+        }
+    },
+    {
+        "sentence_id": 366,
+        "source": "strong flood insurance coverage and affordability",
+        "target": "financial impact of flooding on households is likely to be limited",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "As set out in the November 2024 Financial Stability Report, the shorter-term financial impact of flooding on households is likely to be limited due to strong flood insurance coverage and affordability relative to other countries."
+        }
+    },
+    {
+        "sentence_id": 367,
+        "source": "high insurance coverage",
+        "target": "Credit risks to banks from physical hazards are also currently mitigated",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This is in part due to Flood Re \u2013 a joint reinsurance initiative between the Government and the insurance industry, which promotes the affordability and availability of insurance for households at high risk of flooding.[39] Credit risks to banks from physical hazards are also currently mitigated by high insurance coverage."
+        }
+    },
+    {
+        "sentence_id": 370,
+        "source": "insurers withdrawing from certain regions",
+        "target": "decreases in insurance coverage",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Taken together, these changes could lead to decreases in insurance coverage due to insurers withdrawing from certain regions, or pricing becoming unaffordable for households."
+        }
+    },
+    {
+        "sentence_id": 370,
+        "source": "pricing becoming unaffordable for households",
+        "target": "decreases in insurance coverage",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Taken together, these changes could lead to decreases in insurance coverage due to insurers withdrawing from certain regions, or pricing becoming unaffordable for households."
+        }
+    },
+    {
+        "sentence_id": 371,
+        "source": "uninsurability and the costs of repair from physical damages",
+        "target": "lower house prices",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "This could pose financial stability risks in the long term by negatively affecting: Households \u2013 through lower house prices due to uninsurability and the costs of repair from physical damages as well as difficulty remortgaging a property if there is a lack of available insurance."
+        }
+    },
+    {
+        "sentence_id": 372,
+        "source": "flooding",
+        "target": "higher losses on lending to households and businesses",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Banks \u2013 through higher losses on lending to households and businesses affected by flooding."
+        }
+    },
+    {
+        "sentence_id": 373,
+        "source": "Investment in physical resilience and actions to enhance financial resilience",
+        "target": "UK financial stability",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Investment in physical resilience and actions to enhance financial resilience could be beneficial to UK financial stability by supporting insurability as physical risks increase."
+        }
+    },
+    {
+        "sentence_id": 373,
+        "source": "physical risks increase",
+        "target": "insurability",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "Investment in physical resilience and actions to enhance financial resilience could be beneficial to UK financial stability by supporting insurability as physical risks increase."
+        }
+    },
+    {
+        "sentence_id": 378,
+        "source": "targeted enhancement of the UK bank resolution regime",
+        "target": "regime remains fit for purpose and ready for use",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The FPC supported this targeted enhancement of the UK bank resolution regime which had helped to ensure the regime remains fit for purpose and ready for use."
+        }
+    },
+    {
+        "sentence_id": 379,
+        "source": "updated framework",
+        "target": "reissued the O-SII buffer rates",
+        "metadata": {
+            "polarity": "neutral",
+            "original_sentence": "As a result, the FPC reissued the O-SII buffer rates for 2024 to reflect this updated framework."
+        }
+    },
+    {
+        "sentence_id": 381,
+        "source": "severe negative global supply disruption",
+        "target": "deep recessions across global economies",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "Annex 2: 2025 Bank Capital Stress Test: bank-specific results The 2025 Bank Capital Stress Test assessed the resilience of the major UK banks and building societies against a severe negative global supply disruption that led to deep recessions across global economies."
+        }
+    },
+    {
+        "sentence_id": 382,
+        "source": "higher interest rates, inflation, unemployment and house price falls",
+        "target": "UK macroeconomic stress",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "UK-focused banks \u2013 Lloyds Banking Group, Nationwide Building Society, NatWest Group and Santander UK Group Holdings plc were most affected by the UK macroeconomic stress, driven by higher interest rates, inflation, unemployment and house price falls."
+        }
+    },
+    {
+        "sentence_id": 383,
+        "source": "Credit impairments",
+        "target": "losses for banks",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The results incorporate losses against the following key risk types: Credit impairments were the main source of losses for banks."
+        }
+    },
+    {
+        "sentence_id": 385,
+        "source": "rapidly expanding their deposits",
+        "target": "penalised banks",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The corset was a mechanism that penalised banks for rapidly expanding their deposits, thus constraining the rate at which banks could increase their domestic lending."
+        }
+    },
+    {
+        "sentence_id": 385,
+        "source": "The corset",
+        "target": "constraining the rate at which banks could increase their domestic lending",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "The corset was a mechanism that penalised banks for rapidly expanding their deposits, thus constraining the rate at which banks could increase their domestic lending."
+        }
+    },
+    {
+        "sentence_id": 386,
+        "source": "The higher cost of living",
+        "target": "increase impairments",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "The higher cost of living, which is particularly pronounced on vulnerable households, is estimated to increase impairments relative to the scenario starting point by 4% for mortgages and 20% for consumer credit."
+        }
+    },
+    {
+        "sentence_id": 387,
+        "source": "wage growth has outpaced inflation",
+        "target": "households are more resilient",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This is an improvement relative to the 2022/23 ACS, which reflects that households are more resilient due to increased real incomes as wage growth has outpaced inflation since the 2022/23 ACS and a lower inflation peak in this year\u2019s test."
+        }
+    },
+    {
+        "sentence_id": 388,
+        "source": "PRC implemented proposals to reduce minimum capital requirements",
+        "target": "overall loss- absorbing capacity in the banking system broadly unchanged",
+        "metadata": {
+            "polarity": "neutral",
+            "original_sentence": "In 2019 the FPC raised the rate at which it expects to set the UK CCyB in a standard risk environment from 1% to 2%, alongside which the PRC implemented proposals to reduce minimum capital requirements in a way that left overall loss- absorbing capacity in the banking system broadly unchanged."
+        }
+    },
+    {
+        "sentence_id": 389,
+        "source": "doing so",
+        "target": "change in the PRC\u2019s risk tolerance",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "This was intentionally not reflected in the stress-testing framework at the time as to do so would have resulted in a change in the PRC\u2019s risk tolerance."
+        }
+    },
+    {
+        "sentence_id": 390,
+        "source": "cooling failure in a data centre",
+        "target": "outage across a number of its currency and futures markets",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "On 28 November 2025, CME group suffered an outage across a number of its currency and futures markets, reported to have been linked to a cooling failure in a data centre."
+        }
+    },
+    {
+        "sentence_id": 392,
+        "source": "lower risk premia",
+        "target": "bond prices",
+        "metadata": {
+            "polarity": "positive",
+            "original_sentence": "But the effect of lower risk premia on bond prices is significantly outweighed by the increased duration risk."
+        }
+    },
+    {
+        "sentence_id": 392,
+        "source": "increased duration risk",
+        "target": "bond prices",
+        "metadata": {
+            "polarity": "negative",
+            "original_sentence": "But the effect of lower risk premia on bond prices is significantly outweighed by the increased duration risk."
+        }
+    }
+]
