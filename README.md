@@ -103,27 +103,19 @@ GEMINI_API_KEY=your_api_key_here
 
 ### Step 1: Extract Text from PDFs
 Place your financial reports in the `Reports/` folder.
-```bash
-python stage1_pdf_parser.py
-```
+
 
 ### Step 2: Train & Filter Causal Sentences
 > **Note:** If you have already trained the model, comment out the `gatekeeper.train_model()` line in the main block of the script to save time and skip directly to inference.
-```bash
-python stage2_causal_gatekeeper.py
-```
+
 
 ### Step 3: Extract Graph Edges (Gemini API)
 > This script runs in batches of 10 with a 5-second delay between each batch to respect API rate limits. Gemini is prompted to output concise 1–4 word financial concepts rather than verbatim sentence fragments.
-```bash
-python stage3_extractor.py
-```
+
 
 ### Step 4: Build & Visualize the Graph
 > This step downloads the `all-MiniLM-L6-v2` embedding model on first run (~80 MB). Subsequent runs use the cached version.
-```bash
-python stage4_graph_builder.py
-```
+
 
 Open `Financial Causal Knowledge Graph/Pangura_FCKG_Interactive.html` in your web browser to view the interactive visualization!
 
