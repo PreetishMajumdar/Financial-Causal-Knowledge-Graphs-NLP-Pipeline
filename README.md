@@ -12,17 +12,6 @@ This project delivers an automated Natural Language Processing (NLP) pipeline de
 
 ---
 
-## 👥 Team & Responsibilities
-
-| Member | Stage | Responsibility |
-|--------|-------|----------------|
-| Yuqing | Stage 1 | PDF Parsing & Sentence Extraction |
-| Preetish | Stage 2 | Causal Sentence Detection / NLP Gatekeeper |
-| Martha | Stage 3 | Relation Extraction via LLM API |
-| Ritam | Stage 4 | Entity Resolution & Semantic Matching |
-| Yangce | Stage 4 | Graph Construction, Centrality Analytics & Client Management |
-
----
 
 ## 🏗️ Pipeline Architecture
 
