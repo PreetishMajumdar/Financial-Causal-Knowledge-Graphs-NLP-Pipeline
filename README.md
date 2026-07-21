@@ -1,11 +1,5 @@
 # Automating Financial Causal Knowledge Extraction from Policy Reports 📊🔗
 
-**Project:** P17 DATA70202 (MSc Data Science, University of Manchester)  
-**Industry Partner:** Pangura AI  
-**Academic Year:** 2025/2026
-
----
-
 ## 📑 Project Overview
 
 This project delivers an automated Natural Language Processing (NLP) pipeline designed to extract explicit cause-and-effect relationships from unstructured financial policy reports (e.g., Bank of England Financial Stability Reports). The final output is a **Financial Causal Knowledge Graph (FCKG)** that visualizes systemic risks, economic drivers, and policy impacts to support advanced financial modeling.
